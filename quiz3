@@ -1,0 +1,110 @@
+
+Quiz 3 
+
+1. Tengo un modelo que marca los puntos faciales de una persona
+A. Se hace con un modelo de detección de anomalías
+B. Se basa en promedio móvil ponderado
+C. Es un modelo de clasificación
+D. Es un modelo de regresión
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: D. Es un modelo de regresión
+
+
+2. Es conocido como distancia Manhattan**
+A. L1 norm
+B. L2 norm
+C. RMSE
+D. DBSCAN
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: A. L1 norm
+
+
+3. Normalmente dividimos el dataset en 80 / 20. A este 20 por ciento se le conoce regularmente como
+A. Training Set
+B. Validation Set
+C. Test Set
+D. Cross-Validation Set
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: C. Test Set
+
+
+4. Un dato arroja -0.9 en su correlación contra otro dato. Esto significa
+A. Relación directa alta
+B. Relación directa baja
+C. Relación inversa baja
+D. Relación inversa alta
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: D. Relación inversa alta
+
+
+5. Cuando hacemos limpieza de datos tenemos información categórica que podemos ingresar directamente al modelo
+A. Cierto
+B. Falso
+
+Respuesta: B. Falso
+
+
+6. Para entrenar al modelo utilizamos el siguiente método
+A. .transform()
+B. .fit()
+C. .train()
+D. .train\_test()
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: B. .fit()
+
+
+7. Tengo un split del dataset y voy a aplicar validación cruzada, puedo aplicar esto haciendo
+A. KFold
+B. fit\_transform
+C. fit
+D. transform
+E. corr
+F. Todas las anteriores
+G. Ninguna de las anteriores
+
+Respuesta: A. KFold
+
+
+8. Puedo obtener los mejores hiperparámetros del modelo AUTOMÁTICAMENTE haciendo
+A. GridSearch
+B. Manual Tunning
+C. RandomizedGridSearch
+D. Matriz de covarianza
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: A. GridSearch
+
+
+9. Para servir el algoritmo en una página web debemos obtener
+A. El REST API
+B. El modelo en un formato serializable
+C. La aplicación de Android
+D. La aplicación de React JS
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: B. El modelo en un formato serializable
+
+
+10. ¿Cuál de las siguientes no es una plataforma para servir una aplicación de IA?
+A. GCP (Google Cloud Platform)
+B. AWS (Amazon Web Services)
+C. Microsoft Azure
+D. Yahoo Web Services
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Respuesta: D. Yahoo Web Services
+
+
